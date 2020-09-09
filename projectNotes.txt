@@ -1,0 +1,10 @@
+bonjour madame, 
+voici mon projet calculatrice.
+D'abord je suis désolée pour le retard.
+Ensuite, j'ai essayé de faire le plus simple possible, puisque je suis encore débutante avec ces notions.
+
+dans mon projet une erreur se produit si :
+1/ le 1er bouton tapé n'est pas un chiffre
+2/ si je tape deux opérateurs dans la même opération (exple 2++3 ou 2+3+ ) //pour faciliter le code
+3/ si on divise par zero.
+
